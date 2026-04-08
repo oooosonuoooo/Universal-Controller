@@ -1,0 +1,12 @@
+build/
+dist/
+bin/
+# Ignore the built binary but not the cmd/universal-controller/ source directory
+/universal-controller
+/universal-controller.exe
+*.log
+*.out
+*.zip
+*.tar.gz
+/.idea/
+/.vscode/
